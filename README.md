@@ -1,2 +1,2 @@
 # LearnHub
- Developed a course-selling application using MongoDB, Express.js, and Node.js
+ Developed a course-selling API using MongoDB, Express.js, and Node.js
